@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2021-01-31T05:33:59.336Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" version="14.2.9" etag="2zdivpDcu8joInPUsrQ2" type="github"><diagram id="ufYGe8AwDcUvRspxhOR8">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-31T05:47:47.627Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="iqaSBGcIsytu0twjonHu" version="14.2.9" type="github">
+  <diagram id="ufYGe8AwDcUvRspxhOR8" name="Page-1">
+    <mxGraphModel dx="918" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BUjUl9G6cNDIRel1FlBK-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="60" width="420" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="BUjUl9G6cNDIRel1FlBK-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="150" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BUjUl9G6cNDIRel1FlBK-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BUjUl9G6cNDIRel1FlBK-5" value="EMAIL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="165" y="130" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BUjUl9G6cNDIRel1FlBK-6" value="PASSWORD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="165" y="180" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BUjUl9G6cNDIRel1FlBK-8" value="LOGIN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="230" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BUjUl9G6cNDIRel1FlBK-9" value="Belum Memiliki akun? Silahkan klik disini" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="260" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BUjUl9G6cNDIRel1FlBK-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="60" width="420" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="BUjUl9G6cNDIRel1FlBK-15" value="Full Name" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="635" y="110" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BUjUl9G6cNDIRel1FlBK-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="130" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BUjUl9G6cNDIRel1FlBK-17" value="Email" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="635" y="160" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BUjUl9G6cNDIRel1FlBK-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="180" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BUjUl9G6cNDIRel1FlBK-24" value="Password" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="635" y="210" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BUjUl9G6cNDIRel1FlBK-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="230" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BUjUl9G6cNDIRel1FlBK-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="280" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BUjUl9G6cNDIRel1FlBK-29" value="Alamat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="635" y="260" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BUjUl9G6cNDIRel1FlBK-30" value="Usia" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="635" y="310" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BUjUl9G6cNDIRel1FlBK-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="330" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BUjUl9G6cNDIRel1FlBK-32" value="Register" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="657.5" y="370" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BUjUl9G6cNDIRel1FlBK-34" value="SELAMAT DATANG DI APLIKASI DIAGNOSIS PENYAKIT KARIES GIGI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="100" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BUjUl9G6cNDIRel1FlBK-7" value="DAFTAR AKUN SEKARANG UNTUK KONSULTASI PENYAKIT GIGI ANDA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="70" width="240" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
