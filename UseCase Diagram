@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-19T15:53:49.281Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="sTGuSdnRDp_B40C_SeZd" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-20T06:26:51.640Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="1GcJY0PFXE75ne45OI85" version="14.5.10" type="github">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="1240" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -66,6 +66,15 @@
         </mxCell>
         <mxCell id="j1HS2h_12s64w5TKD3Dp-29" value="LOGOUT" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j1HS2h_12s64w5TKD3Dp-31" value="CHAT" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j1HS2h_12s64w5TKD3Dp-32" value="DASHBOARD" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="567" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j1HS2h_12s64w5TKD3Dp-33" value="WAITING APROVE" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="710" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
