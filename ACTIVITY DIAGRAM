@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T17:16:17.775Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="UwdMeVh5aNsRbSoWvun5" version="14.6.10" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-06T17:22:34.348Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="015vddXPtK8WBi43bkaJ" version="14.6.10" type="github" pages="3">
   <diagram name="LOGIN LOGOUT" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -101,6 +101,14 @@
         <mxCell id="B-lFmk0v0K9ojey0eH0h-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;startSize=20;" edge="1" parent="B-lFmk0v0K9ojey0eH0h-0" source="B-lFmk0v0K9ojey0eH0h-9" target="B-lFmk0v0K9ojey0eH0h-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4sdB9-ozL-cHy-yWMCEP" name="ADMIN DATA GEJALA">
+    <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="5a89YYiMfxDZ47EGhYlY-0" />
+        <mxCell id="5a89YYiMfxDZ47EGhYlY-1" parent="5a89YYiMfxDZ47EGhYlY-0" />
       </root>
     </mxGraphModel>
   </diagram>
