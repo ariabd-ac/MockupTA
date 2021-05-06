@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T17:22:34.348Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="015vddXPtK8WBi43bkaJ" version="14.6.10" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-05-06T17:28:41.229Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="BJ5JPZdpsQ22g7rVCI9k" version="14.6.10" type="github" pages="3">
   <diagram name="LOGIN LOGOUT" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -109,6 +109,69 @@
       <root>
         <mxCell id="5a89YYiMfxDZ47EGhYlY-0" />
         <mxCell id="5a89YYiMfxDZ47EGhYlY-1" parent="5a89YYiMfxDZ47EGhYlY-0" />
+        <mxCell id="pRaFyjYkluVZSWk7u0EA-0" value="ADIM DATA GEJALA" style="swimlane;rounded=0;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;html=1;" vertex="1" parent="5a89YYiMfxDZ47EGhYlY-1">
+          <mxGeometry x="40" y="40" width="560" height="740" as="geometry" />
+        </mxCell>
+        <mxCell id="pRaFyjYkluVZSWk7u0EA-1" value="PENGGUNA" style="swimlane;rounded=0;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;html=1;" vertex="1" parent="pRaFyjYkluVZSWk7u0EA-0">
+          <mxGeometry y="20" width="280" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="pRaFyjYkluVZSWk7u0EA-3" value="Pilih menu data gejala" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;" vertex="1" parent="pRaFyjYkluVZSWk7u0EA-1">
+          <mxGeometry x="40" y="200" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pRaFyjYkluVZSWk7u0EA-12" value="Clik button tambah gejala" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;" vertex="1" parent="pRaFyjYkluVZSWk7u0EA-1">
+          <mxGeometry x="40" y="300" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pRaFyjYkluVZSWk7u0EA-16" value="Isi form data gejala" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;" vertex="1" parent="pRaFyjYkluVZSWk7u0EA-1">
+          <mxGeometry x="40" y="410" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pRaFyjYkluVZSWk7u0EA-5" value="SISTEM" style="swimlane;rounded=0;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;html=1;" vertex="1" parent="pRaFyjYkluVZSWk7u0EA-0">
+          <mxGeometry x="280" y="20" width="280" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="pRaFyjYkluVZSWk7u0EA-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;startSize=20;" edge="1" parent="pRaFyjYkluVZSWk7u0EA-5" source="pRaFyjYkluVZSWk7u0EA-7" target="pRaFyjYkluVZSWk7u0EA-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pRaFyjYkluVZSWk7u0EA-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;" vertex="1" parent="pRaFyjYkluVZSWk7u0EA-5">
+          <mxGeometry x="115" y="40" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pRaFyjYkluVZSWk7u0EA-8" value="Tampil menu-menu admin" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;" vertex="1" parent="pRaFyjYkluVZSWk7u0EA-5">
+          <mxGeometry x="30" y="140" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pRaFyjYkluVZSWk7u0EA-10" value="Tampil data-data gejala" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;" vertex="1" parent="pRaFyjYkluVZSWk7u0EA-5">
+          <mxGeometry x="40" y="240" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pRaFyjYkluVZSWk7u0EA-14" value="Tampil form data gejala" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;" vertex="1" parent="pRaFyjYkluVZSWk7u0EA-5">
+          <mxGeometry x="40" y="350" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fFkfjGRKQvsxrkb5OWof-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;startSize=20;" edge="1" parent="pRaFyjYkluVZSWk7u0EA-5" source="fFkfjGRKQvsxrkb5OWof-0" target="fFkfjGRKQvsxrkb5OWof-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fFkfjGRKQvsxrkb5OWof-0" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;" vertex="1" parent="pRaFyjYkluVZSWk7u0EA-5">
+          <mxGeometry x="105" y="495" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fFkfjGRKQvsxrkb5OWof-3" value="Tampil data-data gejala" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;" vertex="1" parent="pRaFyjYkluVZSWk7u0EA-5">
+          <mxGeometry x="35" y="610" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pRaFyjYkluVZSWk7u0EA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;startSize=20;" edge="1" parent="pRaFyjYkluVZSWk7u0EA-0" source="pRaFyjYkluVZSWk7u0EA-8" target="pRaFyjYkluVZSWk7u0EA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pRaFyjYkluVZSWk7u0EA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;startSize=20;" edge="1" parent="pRaFyjYkluVZSWk7u0EA-0" source="pRaFyjYkluVZSWk7u0EA-3" target="pRaFyjYkluVZSWk7u0EA-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pRaFyjYkluVZSWk7u0EA-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.47;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Verdana;startSize=20;" edge="1" parent="pRaFyjYkluVZSWk7u0EA-0" source="pRaFyjYkluVZSWk7u0EA-10" target="pRaFyjYkluVZSWk7u0EA-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pRaFyjYkluVZSWk7u0EA-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;startSize=20;" edge="1" parent="pRaFyjYkluVZSWk7u0EA-0" source="pRaFyjYkluVZSWk7u0EA-12" target="pRaFyjYkluVZSWk7u0EA-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pRaFyjYkluVZSWk7u0EA-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.465;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Verdana;startSize=20;" edge="1" parent="pRaFyjYkluVZSWk7u0EA-0" source="pRaFyjYkluVZSWk7u0EA-14" target="pRaFyjYkluVZSWk7u0EA-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fFkfjGRKQvsxrkb5OWof-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;startSize=20;" edge="1" parent="pRaFyjYkluVZSWk7u0EA-0" source="pRaFyjYkluVZSWk7u0EA-16" target="fFkfjGRKQvsxrkb5OWof-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fFkfjGRKQvsxrkb5OWof-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Verdana;startSize=20;" edge="1" parent="pRaFyjYkluVZSWk7u0EA-0" source="fFkfjGRKQvsxrkb5OWof-0" target="pRaFyjYkluVZSWk7u0EA-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
