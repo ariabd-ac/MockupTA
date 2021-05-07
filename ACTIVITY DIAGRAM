@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T15:10:22.664Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="18Xnf-Xn6AtFHKOF42Ou" version="14.6.10" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-05-07T15:13:20.566Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="o0jlzlZQqjHmmXzSNhK3" version="14.6.10" type="github" pages="10">
   <diagram name="LOGIN LOGOUT" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -816,6 +816,117 @@
         </mxCell>
         <mxCell id="lpTZSqLPsqWBk_8Yi82e-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;startSize=20;" edge="1" parent="lpTZSqLPsqWBk_8Yi82e-2" source="lpTZSqLPsqWBk_8Yi82e-10" target="lpTZSqLPsqWBk_8Yi82e-5">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="JKxOFIxJjG1B1eD5DyLH" name="DOKTER CHAT">
+    <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="9LENkVYSP42NovYDF9PK-0" />
+        <mxCell id="9LENkVYSP42NovYDF9PK-1" parent="9LENkVYSP42NovYDF9PK-0" />
+        <mxCell id="eTLm-a3eK-8AXdKf9ogs-0" value="DOKTER CHAT" style="swimlane;rounded=0;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;html=1;" vertex="1" parent="9LENkVYSP42NovYDF9PK-1">
+          <mxGeometry x="40" y="20" width="560" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="eTLm-a3eK-8AXdKf9ogs-1" value="PENGGUNA" style="swimlane;rounded=0;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;html=1;" vertex="1" parent="eTLm-a3eK-8AXdKf9ogs-0">
+          <mxGeometry y="20" width="280" height="740" as="geometry" />
+        </mxCell>
+        <mxCell id="eTLm-a3eK-8AXdKf9ogs-2" value="Pilih menu chat" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;" vertex="1" parent="eTLm-a3eK-8AXdKf9ogs-1">
+          <mxGeometry x="40" y="150" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eTLm-a3eK-8AXdKf9ogs-3" value="Pilih users yang memberi pesan" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;" vertex="1" parent="eTLm-a3eK-8AXdKf9ogs-1">
+          <mxGeometry x="40" y="240" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eTLm-a3eK-8AXdKf9ogs-4" value="Membaca &amp;amp; membalas pesan" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;" vertex="1" parent="eTLm-a3eK-8AXdKf9ogs-1">
+          <mxGeometry x="40" y="360" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eTLm-a3eK-8AXdKf9ogs-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eTLm-a3eK-8AXdKf9ogs-1" source="eTLm-a3eK-8AXdKf9ogs-8" target="eTLm-a3eK-8AXdKf9ogs-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eTLm-a3eK-8AXdKf9ogs-8" value="Kembali ke list users" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;" vertex="1" parent="eTLm-a3eK-8AXdKf9ogs-1">
+          <mxGeometry x="40" y="530" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eTLm-a3eK-8AXdKf9ogs-9" value="" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;rounded=0;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;" vertex="1" parent="eTLm-a3eK-8AXdKf9ogs-1">
+          <mxGeometry x="115" y="600" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eTLm-a3eK-8AXdKf9ogs-10" value="SISTEM" style="swimlane;rounded=0;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;html=1;" vertex="1" parent="eTLm-a3eK-8AXdKf9ogs-0">
+          <mxGeometry x="280" y="20" width="280" height="740" as="geometry" />
+        </mxCell>
+        <mxCell id="eTLm-a3eK-8AXdKf9ogs-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;startSize=20;" edge="1" parent="eTLm-a3eK-8AXdKf9ogs-10" source="eTLm-a3eK-8AXdKf9ogs-12" target="eTLm-a3eK-8AXdKf9ogs-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eTLm-a3eK-8AXdKf9ogs-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;" vertex="1" parent="eTLm-a3eK-8AXdKf9ogs-10">
+          <mxGeometry x="115" y="30" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eTLm-a3eK-8AXdKf9ogs-13" value="Tampil menu-menu dokter" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;" vertex="1" parent="eTLm-a3eK-8AXdKf9ogs-10">
+          <mxGeometry x="30" y="110" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eTLm-a3eK-8AXdKf9ogs-14" value="Tampil list user" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;" vertex="1" parent="eTLm-a3eK-8AXdKf9ogs-10">
+          <mxGeometry x="40" y="190" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eTLm-a3eK-8AXdKf9ogs-15" value="Tampil pages chating" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;" vertex="1" parent="eTLm-a3eK-8AXdKf9ogs-10">
+          <mxGeometry x="40" y="310" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eTLm-a3eK-8AXdKf9ogs-16" value="Mengirim pesan ke yang dituju" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;" vertex="1" parent="eTLm-a3eK-8AXdKf9ogs-10">
+          <mxGeometry x="40" y="410" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eTLm-a3eK-8AXdKf9ogs-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;startSize=20;" edge="1" parent="eTLm-a3eK-8AXdKf9ogs-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="770" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eTLm-a3eK-8AXdKf9ogs-18" value="Tampil pesan yang di tuju" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;" vertex="1" parent="eTLm-a3eK-8AXdKf9ogs-10">
+          <mxGeometry x="40" y="470" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eTLm-a3eK-8AXdKf9ogs-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;startSize=20;" edge="1" parent="eTLm-a3eK-8AXdKf9ogs-10" source="eTLm-a3eK-8AXdKf9ogs-16" target="eTLm-a3eK-8AXdKf9ogs-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-140" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eTLm-a3eK-8AXdKf9ogs-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;startSize=20;" edge="1" parent="eTLm-a3eK-8AXdKf9ogs-0" source="eTLm-a3eK-8AXdKf9ogs-13" target="eTLm-a3eK-8AXdKf9ogs-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eTLm-a3eK-8AXdKf9ogs-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;startSize=20;" edge="1" parent="eTLm-a3eK-8AXdKf9ogs-0" source="eTLm-a3eK-8AXdKf9ogs-2" target="eTLm-a3eK-8AXdKf9ogs-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eTLm-a3eK-8AXdKf9ogs-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;startSize=20;" edge="1" parent="eTLm-a3eK-8AXdKf9ogs-0" source="eTLm-a3eK-8AXdKf9ogs-14" target="eTLm-a3eK-8AXdKf9ogs-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eTLm-a3eK-8AXdKf9ogs-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;startSize=20;" edge="1" parent="eTLm-a3eK-8AXdKf9ogs-0" source="eTLm-a3eK-8AXdKf9ogs-3" target="eTLm-a3eK-8AXdKf9ogs-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eTLm-a3eK-8AXdKf9ogs-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.465;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Verdana;startSize=20;" edge="1" parent="eTLm-a3eK-8AXdKf9ogs-0" source="eTLm-a3eK-8AXdKf9ogs-15" target="eTLm-a3eK-8AXdKf9ogs-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eTLm-a3eK-8AXdKf9ogs-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;startSize=20;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="eTLm-a3eK-8AXdKf9ogs-0" source="eTLm-a3eK-8AXdKf9ogs-4" target="eTLm-a3eK-8AXdKf9ogs-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eTLm-a3eK-8AXdKf9ogs-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;startSize=20;" edge="1" parent="eTLm-a3eK-8AXdKf9ogs-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="595" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eTLm-a3eK-8AXdKf9ogs-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;startSize=20;" edge="1" parent="eTLm-a3eK-8AXdKf9ogs-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="645" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eTLm-a3eK-8AXdKf9ogs-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;startSize=20;" edge="1" parent="eTLm-a3eK-8AXdKf9ogs-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="695" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eTLm-a3eK-8AXdKf9ogs-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Verdana;startSize=20;" edge="1" parent="eTLm-a3eK-8AXdKf9ogs-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eTLm-a3eK-8AXdKf9ogs-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="eTLm-a3eK-8AXdKf9ogs-0" source="eTLm-a3eK-8AXdKf9ogs-18" target="eTLm-a3eK-8AXdKf9ogs-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="550" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
