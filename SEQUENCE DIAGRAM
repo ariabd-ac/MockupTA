@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T14:59:07.378Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="0rTtda4wdA2BCIXyyVVJ" version="14.6.11" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-05-20T15:00:07.182Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="8gWUWW9XvmF_h-4P-2Ld" version="14.6.11" type="github" pages="3">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="LOGIN LOGOUT">
     <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -149,206 +149,209 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qMITwKZHXl1R0IapA74j" name="Admin data gejala">
-    <mxGraphModel dx="1673" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="vct-LipMoiI1_07iP17_-0" />
         <mxCell id="vct-LipMoiI1_07iP17_-1" parent="vct-LipMoiI1_07iP17_-0" />
-        <mxCell id="vct-LipMoiI1_07iP17_-2" value="Admin" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="vct-LipMoiI1_07iP17_-1">
-          <mxGeometry x="50" y="90" width="100" height="610" as="geometry" />
+        <mxCell id="s2Kw0TNNNbwIPx-9j8YY-2" value="" style="group" vertex="1" connectable="0" parent="vct-LipMoiI1_07iP17_-1">
+          <mxGeometry x="50" y="30" width="721.8" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="vct-LipMoiI1_07iP17_-2" value="Admin" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="s2Kw0TNNNbwIPx-9j8YY-2">
+          <mxGeometry y="46.56716417910447" width="77.61290322580645" height="473.43283582089555" as="geometry" />
         </mxCell>
         <mxCell id="vct-LipMoiI1_07iP17_-3" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="vct-LipMoiI1_07iP17_-2">
-          <mxGeometry x="45" y="60" width="10" height="50" as="geometry" />
+          <mxGeometry x="34.93" y="60" width="7.76" height="25.37" as="geometry" />
         </mxCell>
         <mxCell id="vct-LipMoiI1_07iP17_-4" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="vct-LipMoiI1_07iP17_-2">
-          <mxGeometry x="45" y="139" width="10" height="50" as="geometry" />
+          <mxGeometry x="34.92580645161291" y="107.88059701492537" width="7.7612903225806456" height="38.80597014925373" as="geometry" />
         </mxCell>
         <mxCell id="vct-LipMoiI1_07iP17_-5" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="vct-LipMoiI1_07iP17_-2">
-          <mxGeometry x="45" y="236" width="10" height="40" as="geometry" />
+          <mxGeometry x="34.92580645161291" y="183.16417910447763" width="7.7612903225806456" height="31.04477611940299" as="geometry" />
         </mxCell>
         <mxCell id="vct-LipMoiI1_07iP17_-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="vct-LipMoiI1_07iP17_-2">
-          <mxGeometry x="45" y="311" width="10" height="40" as="geometry" />
+          <mxGeometry x="34.92580645161291" y="241.3731343283582" width="7.7612903225806456" height="31.04477611940299" as="geometry" />
         </mxCell>
         <mxCell id="vct-LipMoiI1_07iP17_-67" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="vct-LipMoiI1_07iP17_-2">
-          <mxGeometry x="45" y="415" width="10" height="40" as="geometry" />
+          <mxGeometry x="34.92580645161291" y="322.089552238806" width="7.7612903225806456" height="31.04477611940299" as="geometry" />
         </mxCell>
         <mxCell id="vct-LipMoiI1_07iP17_-72" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="vct-LipMoiI1_07iP17_-2">
-          <mxGeometry x="45" y="490" width="10" height="40" as="geometry" />
+          <mxGeometry x="34.92580645161291" y="380.2985074626866" width="7.7612903225806456" height="31.04477611940299" as="geometry" />
         </mxCell>
         <mxCell id="s2Kw0TNNNbwIPx-9j8YY-0" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="vct-LipMoiI1_07iP17_-2">
-          <mxGeometry x="45" y="570" width="10" height="30" as="geometry" />
+          <mxGeometry x="34.92580645161291" y="442.3880597014925" width="7.7612903225806456" height="23.283582089552237" as="geometry" />
         </mxCell>
-        <mxCell id="vct-LipMoiI1_07iP17_-7" value="Menu gejala" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="vct-LipMoiI1_07iP17_-1">
-          <mxGeometry x="180" y="90" width="100" height="610" as="geometry" />
+        <mxCell id="vct-LipMoiI1_07iP17_-7" value="Menu gejala" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="s2Kw0TNNNbwIPx-9j8YY-2">
+          <mxGeometry x="100.89677419354838" y="46.56716417910447" width="77.61290322580645" height="473.43283582089555" as="geometry" />
         </mxCell>
         <mxCell id="vct-LipMoiI1_07iP17_-8" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="vct-LipMoiI1_07iP17_-7">
-          <mxGeometry x="45" y="60" width="10" height="80" as="geometry" />
+          <mxGeometry x="34.93" y="60" width="7.76" height="48.66" as="geometry" />
         </mxCell>
-        <mxCell id="vct-LipMoiI1_07iP17_-9" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="vct-LipMoiI1_07iP17_-1">
-          <mxGeometry x="85" y="30" width="30" height="60" as="geometry" />
+        <mxCell id="vct-LipMoiI1_07iP17_-9" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="s2Kw0TNNNbwIPx-9j8YY-2">
+          <mxGeometry x="27.164516129032258" width="23.283870967741937" height="46.56716417910447" as="geometry" />
         </mxCell>
-        <mxCell id="vct-LipMoiI1_07iP17_-10" value="1. Pilih menu gejala()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.181;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="vct-LipMoiI1_07iP17_-1" source="vct-LipMoiI1_07iP17_-3" target="vct-LipMoiI1_07iP17_-8">
+        <mxCell id="vct-LipMoiI1_07iP17_-10" value="1. Pilih menu gejala()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.181;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="s2Kw0TNNNbwIPx-9j8YY-2" source="vct-LipMoiI1_07iP17_-3" target="vct-LipMoiI1_07iP17_-8">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="250" y="190" as="sourcePoint" />
-            <mxPoint x="330" y="190" as="targetPoint" />
+            <mxPoint x="155.2258064516129" y="124.17910447761196" as="sourcePoint" />
+            <mxPoint x="217.31612903225806" y="124.17910447761196" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vct-LipMoiI1_07iP17_-11" value="Tambah gejala" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="vct-LipMoiI1_07iP17_-1">
-          <mxGeometry x="300" y="90" width="100" height="610" as="geometry" />
+        <mxCell id="vct-LipMoiI1_07iP17_-11" value="Tambah gejala" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="s2Kw0TNNNbwIPx-9j8YY-2">
+          <mxGeometry x="194.03225806451613" y="46.56716417910447" width="77.61290322580645" height="473.43283582089555" as="geometry" />
         </mxCell>
         <mxCell id="vct-LipMoiI1_07iP17_-12" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="vct-LipMoiI1_07iP17_-11">
-          <mxGeometry x="45" y="190" width="10" height="20" as="geometry" />
+          <mxGeometry x="34.92580645161291" y="147.46268656716418" width="7.7612903225806456" height="15.522388059701495" as="geometry" />
         </mxCell>
-        <mxCell id="vct-LipMoiI1_07iP17_-15" value="Form gejala" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="vct-LipMoiI1_07iP17_-1">
-          <mxGeometry x="420" y="90" width="100" height="610" as="geometry" />
+        <mxCell id="vct-LipMoiI1_07iP17_-15" value="Form gejala" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="s2Kw0TNNNbwIPx-9j8YY-2">
+          <mxGeometry x="287.16774193548383" y="46.56716417910447" width="77.61290322580645" height="473.43283582089555" as="geometry" />
         </mxCell>
         <mxCell id="vct-LipMoiI1_07iP17_-58" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="vct-LipMoiI1_07iP17_-15">
-          <mxGeometry x="45" y="190" width="10" height="50" as="geometry" />
+          <mxGeometry x="34.92580645161291" y="147.46268656716418" width="7.7612903225806456" height="38.80597014925373" as="geometry" />
         </mxCell>
-        <mxCell id="vct-LipMoiI1_07iP17_-18" value="Database" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="vct-LipMoiI1_07iP17_-1">
-          <mxGeometry x="880" y="90" width="100" height="610" as="geometry" />
+        <mxCell id="vct-LipMoiI1_07iP17_-18" value="Database" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="s2Kw0TNNNbwIPx-9j8YY-2">
+          <mxGeometry x="644.1870967741936" y="46.56716417910447" width="77.61290322580645" height="473.43283582089555" as="geometry" />
         </mxCell>
         <mxCell id="vct-LipMoiI1_07iP17_-19" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="vct-LipMoiI1_07iP17_-18">
-          <mxGeometry x="45" y="280" width="10" height="40" as="geometry" />
+          <mxGeometry x="34.92580645161291" y="217.3134328358209" width="7.7612903225806456" height="31.04477611940299" as="geometry" />
         </mxCell>
         <mxCell id="vct-LipMoiI1_07iP17_-20" value="7. Cek()" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=0.99;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.038;exitY=0.028;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="vct-LipMoiI1_07iP17_-18" source="vct-LipMoiI1_07iP17_-19" target="vct-LipMoiI1_07iP17_-19">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-180" y="180" as="sourcePoint" />
+            <mxPoint x="-139.70322580645163" y="139.70149253731344" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="55" y="280" />
-              <mxPoint x="70" y="280" />
-              <mxPoint x="70" y="320" />
-              <mxPoint x="55" y="320" />
+              <mxPoint x="42.68709677419355" y="217.3134328358209" />
+              <mxPoint x="54.329032258064515" y="217.3134328358209" />
+              <mxPoint x="54.329032258064515" y="248.35820895522392" />
+              <mxPoint x="42.68709677419355" y="248.35820895522392" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="vct-LipMoiI1_07iP17_-69" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="vct-LipMoiI1_07iP17_-18">
-          <mxGeometry x="45" y="459" width="10" height="40" as="geometry" />
+          <mxGeometry x="34.92580645161291" y="356.23880597014926" width="7.7612903225806456" height="31.04477611940299" as="geometry" />
         </mxCell>
         <mxCell id="vct-LipMoiI1_07iP17_-70" value="13. Cek()" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=0.99;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.038;exitY=0.028;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="vct-LipMoiI1_07iP17_-69" target="vct-LipMoiI1_07iP17_-69" parent="vct-LipMoiI1_07iP17_-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-180" y="359" as="sourcePoint" />
+            <mxPoint x="-139.70322580645163" y="278.62686567164184" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="55" y="459" />
-              <mxPoint x="70" y="459" />
-              <mxPoint x="70" y="499" />
-              <mxPoint x="55" y="499" />
+              <mxPoint x="42.68709677419355" y="356.23880597014926" />
+              <mxPoint x="54.329032258064515" y="356.23880597014926" />
+              <mxPoint x="54.329032258064515" y="387.2835820895522" />
+              <mxPoint x="42.68709677419355" y="387.2835820895522" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="vct-LipMoiI1_07iP17_-78" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="vct-LipMoiI1_07iP17_-18">
-          <mxGeometry x="45" y="536" width="10" height="40" as="geometry" />
+          <mxGeometry x="34.92580645161291" y="416" width="7.7612903225806456" height="31.04477611940299" as="geometry" />
         </mxCell>
         <mxCell id="vct-LipMoiI1_07iP17_-79" value="17. Cek()" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=0.99;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.038;exitY=0.028;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="vct-LipMoiI1_07iP17_-78" target="vct-LipMoiI1_07iP17_-78" parent="vct-LipMoiI1_07iP17_-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-180" y="436" as="sourcePoint" />
+            <mxPoint x="-139.70322580645163" y="338.3880597014925" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="55" y="536" />
-              <mxPoint x="70" y="536" />
-              <mxPoint x="70" y="576" />
-              <mxPoint x="55" y="576" />
+              <mxPoint x="42.68709677419355" y="416" />
+              <mxPoint x="54.329032258064515" y="416" />
+              <mxPoint x="54.329032258064515" y="447.044776119403" />
+              <mxPoint x="42.68709677419355" y="447.044776119403" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vct-LipMoiI1_07iP17_-21" value="3. Pilih tambah gejala()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=-0.065;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="vct-LipMoiI1_07iP17_-1" target="vct-LipMoiI1_07iP17_-12">
+        <mxCell id="vct-LipMoiI1_07iP17_-21" value="3. Pilih tambah gejala()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=-0.065;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="s2Kw0TNNNbwIPx-9j8YY-2" target="vct-LipMoiI1_07iP17_-12">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="105" y="279" as="sourcePoint" />
-            <mxPoint x="590" y="265" as="targetPoint" />
+            <mxPoint x="42.68709677419355" y="193.2537313432836" as="sourcePoint" />
+            <mxPoint x="419.10967741935485" y="182.38805970149255" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vct-LipMoiI1_07iP17_-24" value="8. Keterangan()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=0.814;entryY=0.04;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.562;exitY=0.987;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="vct-LipMoiI1_07iP17_-1" source="vct-LipMoiI1_07iP17_-19" target="vct-LipMoiI1_07iP17_-6">
+        <mxCell id="vct-LipMoiI1_07iP17_-24" value="8. Keterangan()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=0.814;entryY=0.04;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.562;exitY=0.987;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="s2Kw0TNNNbwIPx-9j8YY-2" source="vct-LipMoiI1_07iP17_-19" target="vct-LipMoiI1_07iP17_-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="467.97" y="411.45900000000006" as="sourcePoint" />
-            <mxPoint x="340" y="390" as="targetPoint" />
+            <mxPoint x="324.3986516129033" y="296.0577313432836" as="sourcePoint" />
+            <mxPoint x="225.07741935483872" y="279.4029850746269" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vct-LipMoiI1_07iP17_-25" value="Ubah gejala" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="vct-LipMoiI1_07iP17_-1">
-          <mxGeometry x="535" y="90" width="100" height="610" as="geometry" />
+        <mxCell id="vct-LipMoiI1_07iP17_-25" value="Ubah gejala" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="s2Kw0TNNNbwIPx-9j8YY-2">
+          <mxGeometry x="376.4225806451613" y="46.56716417910447" width="77.61290322580645" height="473.43283582089555" as="geometry" />
         </mxCell>
         <mxCell id="vct-LipMoiI1_07iP17_-62" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="vct-LipMoiI1_07iP17_-25">
-          <mxGeometry x="45" y="355" width="10" height="40" as="geometry" />
+          <mxGeometry x="34.92580645161291" y="275.52238805970154" width="7.7612903225806456" height="31.04477611940299" as="geometry" />
         </mxCell>
-        <mxCell id="vct-LipMoiI1_07iP17_-54" value="Form ubah gejala" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="vct-LipMoiI1_07iP17_-1">
-          <mxGeometry x="650" y="90" width="100" height="610" as="geometry" />
+        <mxCell id="vct-LipMoiI1_07iP17_-54" value="Form ubah gejala" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="s2Kw0TNNNbwIPx-9j8YY-2">
+          <mxGeometry x="465.6774193548387" y="46.56716417910447" width="77.61290322580645" height="473.43283582089555" as="geometry" />
         </mxCell>
         <mxCell id="vct-LipMoiI1_07iP17_-64" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="vct-LipMoiI1_07iP17_-54">
-          <mxGeometry x="45" y="355" width="10" height="65" as="geometry" />
+          <mxGeometry x="34.92580645161291" y="275.52238805970154" width="7.7612903225806456" height="50.44776119402985" as="geometry" />
         </mxCell>
-        <mxCell id="vct-LipMoiI1_07iP17_-57" value="2. Tampil gejala()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.162;exitY=0.999;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.918;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="vct-LipMoiI1_07iP17_-1" source="vct-LipMoiI1_07iP17_-8" target="vct-LipMoiI1_07iP17_-4">
+        <mxCell id="vct-LipMoiI1_07iP17_-57" value="2. Tampil gejala()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.162;exitY=0.999;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.918;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="s2Kw0TNNNbwIPx-9j8YY-2" source="vct-LipMoiI1_07iP17_-8" target="vct-LipMoiI1_07iP17_-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="200" as="sourcePoint" />
-            <mxPoint x="120" y="220" as="targetPoint" />
+            <mxPoint x="124.18064516129033" y="131.9402985074627" as="sourcePoint" />
+            <mxPoint x="54.329032258064515" y="147.46268656716418" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vct-LipMoiI1_07iP17_-59" value="4. Form gejala()&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.889;exitY=0.039;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="vct-LipMoiI1_07iP17_-1" source="vct-LipMoiI1_07iP17_-12" target="vct-LipMoiI1_07iP17_-58">
+        <mxCell id="vct-LipMoiI1_07iP17_-59" value="4. Form gejala()&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.889;exitY=0.039;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="s2Kw0TNNNbwIPx-9j8YY-2" source="vct-LipMoiI1_07iP17_-12" target="vct-LipMoiI1_07iP17_-58">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="350" y="270" as="sourcePoint" />
-            <mxPoint x="430" y="270" as="targetPoint" />
+            <mxPoint x="232.83870967741936" y="186.2686567164179" as="sourcePoint" />
+            <mxPoint x="294.9290322580645" y="186.2686567164179" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vct-LipMoiI1_07iP17_-60" value="5. Tampil Form gejala()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.083;exitY=0.982;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.778;entryY=0.035;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="vct-LipMoiI1_07iP17_-1" source="vct-LipMoiI1_07iP17_-58" target="vct-LipMoiI1_07iP17_-5">
+        <mxCell id="vct-LipMoiI1_07iP17_-60" value="5. Tampil Form gejala()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.083;exitY=0.982;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.778;entryY=0.035;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="s2Kw0TNNNbwIPx-9j8YY-2" source="vct-LipMoiI1_07iP17_-58" target="vct-LipMoiI1_07iP17_-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="340" as="sourcePoint" />
-            <mxPoint x="110" y="329" as="targetPoint" />
+            <mxPoint x="209.55483870967743" y="240.59701492537314" as="sourcePoint" />
+            <mxPoint x="46.56774193548387" y="232.05970149253733" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vct-LipMoiI1_07iP17_-61" value="6. Mengisi Form gejala()" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.752;exitY=1.015;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.057;entryY=0.058;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="vct-LipMoiI1_07iP17_-1" source="vct-LipMoiI1_07iP17_-5" target="vct-LipMoiI1_07iP17_-19">
+        <mxCell id="vct-LipMoiI1_07iP17_-61" value="6. Mengisi Form gejala()" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.752;exitY=1.015;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.057;entryY=0.058;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="s2Kw0TNNNbwIPx-9j8YY-2" source="vct-LipMoiI1_07iP17_-5" target="vct-LipMoiI1_07iP17_-19">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="380" y="370" as="sourcePoint" />
-            <mxPoint x="460" y="370" as="targetPoint" />
+            <mxPoint x="256.1225806451613" y="263.8805970149254" as="sourcePoint" />
+            <mxPoint x="318.2129032258065" y="263.8805970149254" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vct-LipMoiI1_07iP17_-63" value="9. Pilih ubah gejala()" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.8;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="vct-LipMoiI1_07iP17_-1" source="vct-LipMoiI1_07iP17_-6" target="vct-LipMoiI1_07iP17_-62">
+        <mxCell id="vct-LipMoiI1_07iP17_-63" value="9. Pilih ubah gejala()" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.8;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="s2Kw0TNNNbwIPx-9j8YY-2" source="vct-LipMoiI1_07iP17_-6" target="vct-LipMoiI1_07iP17_-62">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="390" y="370" as="sourcePoint" />
-            <mxPoint x="570" y="441" as="targetPoint" />
+            <mxPoint x="263.8838709677419" y="263.8805970149254" as="sourcePoint" />
+            <mxPoint x="403.5870967741935" y="318.9850746268657" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vct-LipMoiI1_07iP17_-66" value="10. Form ubah gejala()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.028;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.923;exitY=0.016;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="vct-LipMoiI1_07iP17_-1" source="vct-LipMoiI1_07iP17_-62" target="vct-LipMoiI1_07iP17_-64">
+        <mxCell id="vct-LipMoiI1_07iP17_-66" value="10. Form ubah gejala()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.028;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.923;exitY=0.016;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="s2Kw0TNNNbwIPx-9j8YY-2" source="vct-LipMoiI1_07iP17_-62" target="vct-LipMoiI1_07iP17_-64">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="540" y="430" as="sourcePoint" />
-            <mxPoint x="620" y="430" as="targetPoint" />
+            <mxPoint x="380.3032258064516" y="310.44776119402985" as="sourcePoint" />
+            <mxPoint x="442.3935483870968" y="310.44776119402985" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vct-LipMoiI1_07iP17_-68" value="11. Tampil Form ubah gejala()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.286;exitY=0.989;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="vct-LipMoiI1_07iP17_-1" source="vct-LipMoiI1_07iP17_-64" target="vct-LipMoiI1_07iP17_-67">
+        <mxCell id="vct-LipMoiI1_07iP17_-68" value="11. Tampil Form ubah gejala()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.286;exitY=0.989;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="s2Kw0TNNNbwIPx-9j8YY-2" source="vct-LipMoiI1_07iP17_-64" target="vct-LipMoiI1_07iP17_-67">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="470" y="460" as="sourcePoint" />
-            <mxPoint x="160" y="509" as="targetPoint" />
+            <mxPoint x="325.9741935483871" y="333.7313432835821" as="sourcePoint" />
+            <mxPoint x="85.3741935483871" y="371.76119402985074" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vct-LipMoiI1_07iP17_-71" value="12. Mengisi Form ubah gejala" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.971;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.057;entryY=0.061;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="vct-LipMoiI1_07iP17_-1" source="vct-LipMoiI1_07iP17_-67" target="vct-LipMoiI1_07iP17_-69">
+        <mxCell id="vct-LipMoiI1_07iP17_-71" value="12. Mengisi Form ubah gejala" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.971;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.057;entryY=0.061;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="s2Kw0TNNNbwIPx-9j8YY-2" source="vct-LipMoiI1_07iP17_-67" target="vct-LipMoiI1_07iP17_-69">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="390" y="560" as="sourcePoint" />
-            <mxPoint x="760" y="545" as="targetPoint" />
+            <mxPoint x="263.8838709677419" y="411.34328358208955" as="sourcePoint" />
+            <mxPoint x="551.0516129032258" y="399.70149253731347" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vct-LipMoiI1_07iP17_-73" value="14. Keterangan()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.124;exitY=1.009;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.952;entryY=0.114;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="vct-LipMoiI1_07iP17_-1" source="vct-LipMoiI1_07iP17_-69" target="vct-LipMoiI1_07iP17_-72">
+        <mxCell id="vct-LipMoiI1_07iP17_-73" value="14. Keterangan()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.124;exitY=1.009;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.952;entryY=0.114;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="s2Kw0TNNNbwIPx-9j8YY-2" source="vct-LipMoiI1_07iP17_-69" target="vct-LipMoiI1_07iP17_-72">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250" y="600" as="sourcePoint" />
-            <mxPoint x="130" y="589" as="targetPoint" />
+            <mxPoint x="155.2258064516129" y="442.3880597014925" as="sourcePoint" />
+            <mxPoint x="62.090322580645164" y="433.85074626865674" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vct-LipMoiI1_07iP17_-75" value="Hapus gejala" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="vct-LipMoiI1_07iP17_-1">
-          <mxGeometry x="760" y="90" width="100" height="610" as="geometry" />
+        <mxCell id="vct-LipMoiI1_07iP17_-75" value="Hapus gejala" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="s2Kw0TNNNbwIPx-9j8YY-2">
+          <mxGeometry x="551.0516129032258" y="46.56716417910447" width="77.61290322580645" height="473.43283582089555" as="geometry" />
         </mxCell>
         <mxCell id="vct-LipMoiI1_07iP17_-76" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="vct-LipMoiI1_07iP17_-75">
-          <mxGeometry x="45" y="533" width="10" height="30" as="geometry" />
+          <mxGeometry x="34.92580645161291" y="413.6716417910448" width="7.7612903225806456" height="23.283582089552237" as="geometry" />
         </mxCell>
-        <mxCell id="vct-LipMoiI1_07iP17_-77" value="15. Pilih hapus gejala()" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.865;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="vct-LipMoiI1_07iP17_-1" source="vct-LipMoiI1_07iP17_-72" target="vct-LipMoiI1_07iP17_-76">
+        <mxCell id="vct-LipMoiI1_07iP17_-77" value="15. Pilih hapus gejala()" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.865;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="s2Kw0TNNNbwIPx-9j8YY-2" source="vct-LipMoiI1_07iP17_-72" target="vct-LipMoiI1_07iP17_-76">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="470" y="490" as="sourcePoint" />
-            <mxPoint x="550" y="490" as="targetPoint" />
+            <mxPoint x="325.9741935483871" y="357.01492537313436" as="sourcePoint" />
+            <mxPoint x="388.06451612903226" y="357.01492537313436" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vct-LipMoiI1_07iP17_-80" value="16. Hapus gejala()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.829;exitY=0.057;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="vct-LipMoiI1_07iP17_-1" source="vct-LipMoiI1_07iP17_-76" target="vct-LipMoiI1_07iP17_-78">
+        <mxCell id="vct-LipMoiI1_07iP17_-80" value="16. Hapus gejala()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.829;exitY=0.057;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="s2Kw0TNNNbwIPx-9j8YY-2" source="vct-LipMoiI1_07iP17_-76" target="vct-LipMoiI1_07iP17_-78">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="810" y="630" as="sourcePoint" />
-            <mxPoint x="740" y="650" as="targetPoint" />
+            <mxPoint x="589.858064516129" y="465.67164179104475" as="sourcePoint" />
+            <mxPoint x="535.5290322580645" y="481.1940298507463" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s2Kw0TNNNbwIPx-9j8YY-1" value="18. Keterangan()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.086;exitY=0.954;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.743;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="vct-LipMoiI1_07iP17_-1" source="vct-LipMoiI1_07iP17_-78" target="s2Kw0TNNNbwIPx-9j8YY-0">
+        <mxCell id="s2Kw0TNNNbwIPx-9j8YY-1" value="18. Keterangan()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.086;exitY=0.954;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.743;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="s2Kw0TNNNbwIPx-9j8YY-2" source="vct-LipMoiI1_07iP17_-78" target="s2Kw0TNNNbwIPx-9j8YY-0">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="690" as="sourcePoint" />
-            <mxPoint x="490" y="690" as="targetPoint" />
+            <mxPoint x="403.5870967741935" y="512.2388059701493" as="sourcePoint" />
+            <mxPoint x="341.4967741935484" y="512.2388059701493" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
