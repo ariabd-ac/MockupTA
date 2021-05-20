@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T04:08:57.708Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="aiegglukQ4a-eSWpqtQ5" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-20T04:20:03.904Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="P_xkJa3bkrlfSIVrcwx-" version="14.6.11" type="github" pages="2">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="LOGIN LOGOUT">
-    <mxGraphModel dx="981" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="654" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -108,6 +108,41 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="390" as="sourcePoint" />
             <mxPoint x="340" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="dpeK3BgXnqwegCXsj3Rl" name="ADMIN DASHBOARD">
+    <mxGraphModel dx="380" dy="317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="BzRCIIB39uC7o4BwMxFi-0" />
+        <mxCell id="BzRCIIB39uC7o4BwMxFi-1" parent="BzRCIIB39uC7o4BwMxFi-0" />
+        <mxCell id="-nijB5UfqbZCqRluEKFo-0" value="Admin" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="BzRCIIB39uC7o4BwMxFi-1">
+          <mxGeometry x="50" y="90" width="100" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-nijB5UfqbZCqRluEKFo-1" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="-nijB5UfqbZCqRluEKFo-0">
+          <mxGeometry x="45" y="90" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-nijB5UfqbZCqRluEKFo-5" value="Dashboard" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="BzRCIIB39uC7o4BwMxFi-1">
+          <mxGeometry x="220" y="90" width="100" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-nijB5UfqbZCqRluEKFo-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="-nijB5UfqbZCqRluEKFo-5">
+          <mxGeometry x="45" y="90" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-nijB5UfqbZCqRluEKFo-7" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="BzRCIIB39uC7o4BwMxFi-1">
+          <mxGeometry x="85" y="30" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-nijB5UfqbZCqRluEKFo-8" value="1. Succes login()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.181;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="BzRCIIB39uC7o4BwMxFi-1" source="-nijB5UfqbZCqRluEKFo-1" target="-nijB5UfqbZCqRluEKFo-6">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="250" y="190" as="sourcePoint" />
+            <mxPoint x="330" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-nijB5UfqbZCqRluEKFo-23" value="2. Tampil dashboard()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.02;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.02;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="BzRCIIB39uC7o4BwMxFi-1" source="-nijB5UfqbZCqRluEKFo-6" target="-nijB5UfqbZCqRluEKFo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="210" as="sourcePoint" />
+            <mxPoint x="70" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
