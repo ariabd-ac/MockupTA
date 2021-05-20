@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T15:00:07.182Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="8gWUWW9XvmF_h-4P-2Ld" version="14.6.11" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-05-20T15:00:38.677Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="QujR0-SB4WeCATK1oRfM" version="14.6.11" type="github" pages="3">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="LOGIN LOGOUT">
     <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -270,7 +270,7 @@
         <mxCell id="vct-LipMoiI1_07iP17_-62" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="vct-LipMoiI1_07iP17_-25">
           <mxGeometry x="34.92580645161291" y="275.52238805970154" width="7.7612903225806456" height="31.04477611940299" as="geometry" />
         </mxCell>
-        <mxCell id="vct-LipMoiI1_07iP17_-54" value="Form ubah gejala" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="s2Kw0TNNNbwIPx-9j8YY-2">
+        <mxCell id="vct-LipMoiI1_07iP17_-54" value="Form ubah &#xa;gejala" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="s2Kw0TNNNbwIPx-9j8YY-2">
           <mxGeometry x="465.6774193548387" y="46.56716417910447" width="77.61290322580645" height="473.43283582089555" as="geometry" />
         </mxCell>
         <mxCell id="vct-LipMoiI1_07iP17_-64" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="vct-LipMoiI1_07iP17_-54">
