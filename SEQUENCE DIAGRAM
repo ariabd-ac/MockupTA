@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-21T13:48:07.746Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="VSubjG_tZXC0d7F-gyCj" version="14.7.0" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2021-05-21T13:48:33.788Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="Swj2vDmZoTqgiOWZvmiF" version="14.7.0" type="github" pages="14">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="LOGIN LOGOUT">
     <mxGraphModel dx="460" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1456,6 +1456,105 @@
         </mxCell>
         <mxCell id="P8xrqwjIFjdwJGQhMAhh-26" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="P8xrqwjIFjdwJGQhMAhh-0">
           <mxGeometry x="34.92580645161291" y="350.995223880597" width="7.7612903225806456" height="23.283582089552237" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="vySzFga81HG2HkwVQN3I" name="User Chatbot">
+    <mxGraphModel dx="1422" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="5ahFChqZPXLT0MYUGLp0-0" />
+        <mxCell id="5ahFChqZPXLT0MYUGLp0-1" parent="5ahFChqZPXLT0MYUGLp0-0" />
+        <mxCell id="wsJNYusbvr3Zw20gftKL-0" value="" style="group" vertex="1" connectable="0" parent="5ahFChqZPXLT0MYUGLp0-1">
+          <mxGeometry x="20" y="30" width="721.8" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="wsJNYusbvr3Zw20gftKL-1" value="User" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="wsJNYusbvr3Zw20gftKL-0">
+          <mxGeometry y="46.57" width="77.61" height="243.43" as="geometry" />
+        </mxCell>
+        <mxCell id="wsJNYusbvr3Zw20gftKL-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="wsJNYusbvr3Zw20gftKL-1">
+          <mxGeometry x="34.93" y="60" width="7.76" height="25.37" as="geometry" />
+        </mxCell>
+        <mxCell id="wsJNYusbvr3Zw20gftKL-3" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="wsJNYusbvr3Zw20gftKL-1">
+          <mxGeometry x="34.92580645161291" y="107.88059701492537" width="7.7612903225806456" height="38.80597014925373" as="geometry" />
+        </mxCell>
+        <mxCell id="wsJNYusbvr3Zw20gftKL-4" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="wsJNYusbvr3Zw20gftKL-1">
+          <mxGeometry x="34.92580645161291" y="183.16417910447763" width="7.7612903225806456" height="31.04477611940299" as="geometry" />
+        </mxCell>
+        <mxCell id="wsJNYusbvr3Zw20gftKL-5" value="Menu &#xa;chatbot" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="wsJNYusbvr3Zw20gftKL-0">
+          <mxGeometry x="129.9967741935484" y="46.56716417910447" width="77.61290322580645" height="243.43" as="geometry" />
+        </mxCell>
+        <mxCell id="wsJNYusbvr3Zw20gftKL-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="wsJNYusbvr3Zw20gftKL-5">
+          <mxGeometry x="34.93" y="60" width="7.76" height="48.66" as="geometry" />
+        </mxCell>
+        <mxCell id="wsJNYusbvr3Zw20gftKL-7" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="wsJNYusbvr3Zw20gftKL-0">
+          <mxGeometry x="27.164516129032258" width="23.283870967741937" height="46.56716417910447" as="geometry" />
+        </mxCell>
+        <mxCell id="wsJNYusbvr3Zw20gftKL-8" value="1. Pilih menu&amp;nbsp;&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;chatbot&lt;/span&gt;()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.181;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="wsJNYusbvr3Zw20gftKL-0" source="wsJNYusbvr3Zw20gftKL-2" target="wsJNYusbvr3Zw20gftKL-6">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="155.2258064516129" y="124.17910447761196" as="sourcePoint" />
+            <mxPoint x="217.31612903225806" y="124.17910447761196" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wsJNYusbvr3Zw20gftKL-9" value="Form chatbot" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="wsJNYusbvr3Zw20gftKL-0">
+          <mxGeometry x="250.00225806451613" y="46.56716417910447" width="77.61290322580645" height="243.43" as="geometry" />
+        </mxCell>
+        <mxCell id="wsJNYusbvr3Zw20gftKL-10" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="wsJNYusbvr3Zw20gftKL-9">
+          <mxGeometry x="34.92580645161291" y="147.46268656716418" width="7.7612903225806456" height="15.522388059701495" as="geometry" />
+        </mxCell>
+        <mxCell id="wsJNYusbvr3Zw20gftKL-11" value="API" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="wsJNYusbvr3Zw20gftKL-0">
+          <mxGeometry x="393.9977419354838" y="46.56716417910447" width="77.61290322580645" height="243.43" as="geometry" />
+        </mxCell>
+        <mxCell id="wsJNYusbvr3Zw20gftKL-12" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="wsJNYusbvr3Zw20gftKL-11">
+          <mxGeometry x="34.93" y="147.46" width="7.76" height="22.54" as="geometry" />
+        </mxCell>
+        <mxCell id="wsJNYusbvr3Zw20gftKL-13" value="Dialogflow" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="wsJNYusbvr3Zw20gftKL-0">
+          <mxGeometry x="519.9970967741936" y="46.56716417910447" width="77.61290322580645" height="243.43" as="geometry" />
+        </mxCell>
+        <mxCell id="wsJNYusbvr3Zw20gftKL-14" value="" style="group" vertex="1" connectable="0" parent="wsJNYusbvr3Zw20gftKL-13">
+          <mxGeometry x="34.92290322580635" y="148.23283582089553" width="19.08000000000004" height="38.03999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="wsJNYusbvr3Zw20gftKL-15" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=0.99;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="wsJNYusbvr3Zw20gftKL-14" source="wsJNYusbvr3Zw20gftKL-16" target="wsJNYusbvr3Zw20gftKL-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-174.62612903225795" y="-70.61477611940302" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="19.08000000000004" />
+              <mxPoint x="19.08000000000004" y="38" />
+              <mxPoint x="8.080000000000041" y="38" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wsJNYusbvr3Zw20gftKL-16" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="wsJNYusbvr3Zw20gftKL-14">
+          <mxGeometry width="7.76" height="38.04" as="geometry" />
+        </mxCell>
+        <mxCell id="wsJNYusbvr3Zw20gftKL-17" value="3. Mengisi chatbot()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=-0.065;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="wsJNYusbvr3Zw20gftKL-0" target="wsJNYusbvr3Zw20gftKL-10">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="42.68709677419355" y="193.2537313432836" as="sourcePoint" />
+            <mxPoint x="419.10967741935485" y="182.38805970149255" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wsJNYusbvr3Zw20gftKL-18" value="2. Pesan selamat datang()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.162;exitY=0.999;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.918;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="wsJNYusbvr3Zw20gftKL-0" source="wsJNYusbvr3Zw20gftKL-6" target="wsJNYusbvr3Zw20gftKL-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="124.18064516129033" y="131.9402985074627" as="sourcePoint" />
+            <mxPoint x="54.329032258064515" y="147.46268656716418" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wsJNYusbvr3Zw20gftKL-19" value="4. Mengirim pesan&amp;nbsp;&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;chat&lt;/span&gt;()&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.889;exitY=0.039;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="wsJNYusbvr3Zw20gftKL-0" source="wsJNYusbvr3Zw20gftKL-10" target="wsJNYusbvr3Zw20gftKL-12">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="232.83870967741936" y="186.2686567164179" as="sourcePoint" />
+            <mxPoint x="294.9290322580645" y="186.2686567164179" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wsJNYusbvr3Zw20gftKL-20" value="5. Menerima balasan dari bot()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.182;exitY=0.999;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.778;entryY=0.035;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="wsJNYusbvr3Zw20gftKL-0" source="wsJNYusbvr3Zw20gftKL-16" target="wsJNYusbvr3Zw20gftKL-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="209.55483870967743" y="240.59701492537314" as="sourcePoint" />
+            <mxPoint x="46.56774193548387" y="232.05970149253733" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wsJNYusbvr3Zw20gftKL-21" value="5. Mengirim ke dialogflow" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.428;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.976;exitY=0.018;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="wsJNYusbvr3Zw20gftKL-0" source="wsJNYusbvr3Zw20gftKL-12" target="wsJNYusbvr3Zw20gftKL-16">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="190" y="170" as="sourcePoint" />
+            <mxPoint x="270" y="170" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
