@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-21T14:17:51.851Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="ar86I-N9wXTpFWSlBxF3" version="14.7.0" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2021-05-21T14:28:01.682Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="5Q7-751ZT3G1uS-rnlcZ" version="14.7.0" type="github" pages="16">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="LOGIN LOGOUT">
-    <mxGraphModel dx="460" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1693,6 +1693,88 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="310" y="327" as="sourcePoint" />
             <mxPoint x="230" y="327" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_YRnyohegDXZ9QRxa8eE" name="Registrasi">
+    <mxGraphModel dx="1422" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="vNt7XquiQm9O29NOy2Zp-0" />
+        <mxCell id="vNt7XquiQm9O29NOy2Zp-1" parent="vNt7XquiQm9O29NOy2Zp-0" />
+        <mxCell id="sopOfQCciSGlY3qeUP3Z-0" value="Pengguna" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="vNt7XquiQm9O29NOy2Zp-1">
+          <mxGeometry x="50" y="90" width="100" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="sopOfQCciSGlY3qeUP3Z-1" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="sopOfQCciSGlY3qeUP3Z-0">
+          <mxGeometry x="45" y="60" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sopOfQCciSGlY3qeUP3Z-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="sopOfQCciSGlY3qeUP3Z-0">
+          <mxGeometry x="45" y="125" width="10" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="sopOfQCciSGlY3qeUP3Z-3" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="sopOfQCciSGlY3qeUP3Z-0">
+          <mxGeometry x="45" y="230" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sopOfQCciSGlY3qeUP3Z-5" value="Menu Registrasi" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="vNt7XquiQm9O29NOy2Zp-1">
+          <mxGeometry x="180" y="90" width="100" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="sopOfQCciSGlY3qeUP3Z-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="sopOfQCciSGlY3qeUP3Z-5">
+          <mxGeometry x="45" y="60" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sopOfQCciSGlY3qeUP3Z-7" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="vNt7XquiQm9O29NOy2Zp-1">
+          <mxGeometry x="85" y="30" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sopOfQCciSGlY3qeUP3Z-8" value="1. Pilih menu registrasi()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.181;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="vNt7XquiQm9O29NOy2Zp-1" source="sopOfQCciSGlY3qeUP3Z-1" target="sopOfQCciSGlY3qeUP3Z-6">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="250" y="190" as="sourcePoint" />
+            <mxPoint x="330" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sopOfQCciSGlY3qeUP3Z-9" value="Form Registrasi" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="vNt7XquiQm9O29NOy2Zp-1">
+          <mxGeometry x="300" y="90" width="100" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="sopOfQCciSGlY3qeUP3Z-10" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="sopOfQCciSGlY3qeUP3Z-9">
+          <mxGeometry x="45" y="60" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sopOfQCciSGlY3qeUP3Z-11" value="2. Form Registrasi()" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.8;exitY=-0.001;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="vNt7XquiQm9O29NOy2Zp-1" source="sopOfQCciSGlY3qeUP3Z-6" target="sopOfQCciSGlY3qeUP3Z-10">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="240" y="210" as="sourcePoint" />
+            <mxPoint x="320" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sopOfQCciSGlY3qeUP3Z-12" value="3. Tampil Form Registrasi()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.419;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="vNt7XquiQm9O29NOy2Zp-1" source="sopOfQCciSGlY3qeUP3Z-10" target="sopOfQCciSGlY3qeUP3Z-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="210" as="sourcePoint" />
+            <mxPoint x="240" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sopOfQCciSGlY3qeUP3Z-16" value="Database" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="vNt7XquiQm9O29NOy2Zp-1">
+          <mxGeometry x="430" y="90" width="100" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="sopOfQCciSGlY3qeUP3Z-17" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="sopOfQCciSGlY3qeUP3Z-16">
+          <mxGeometry x="45" y="190" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sopOfQCciSGlY3qeUP3Z-18" value="5. Cek()" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=0.99;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.038;exitY=0.028;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="sopOfQCciSGlY3qeUP3Z-16" source="sopOfQCciSGlY3qeUP3Z-17" target="sopOfQCciSGlY3qeUP3Z-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-180" y="90" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="55" y="190" />
+              <mxPoint x="70" y="190" />
+              <mxPoint x="70" y="230" />
+              <mxPoint x="55" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sopOfQCciSGlY3qeUP3Z-19" value="4, Mengisi Form Registrasi()" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.99;exitY=0.994;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.019;entryY=0.061;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="vNt7XquiQm9O29NOy2Zp-1" source="sopOfQCciSGlY3qeUP3Z-2" target="sopOfQCciSGlY3qeUP3Z-17">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="360" y="210" as="sourcePoint" />
+            <mxPoint x="590" y="265" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sopOfQCciSGlY3qeUP3Z-20" value="6. Keterangan()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.005;exitY=0.995;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="vNt7XquiQm9O29NOy2Zp-1" source="sopOfQCciSGlY3qeUP3Z-17" target="sopOfQCciSGlY3qeUP3Z-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="330" as="sourcePoint" />
+            <mxPoint x="130" y="309" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
