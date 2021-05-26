@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-26T11:35:05.122Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="PWiyplEgKl9ylS7aeNNN" version="14.7.0" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2021-05-26T11:47:47.255Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="0YfQecKnFWKaWzq6lvL7" version="14.7.0" type="github" pages="16">
   <diagram name="LOGIN LOGOUT" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="1736" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -932,7 +932,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4jMp39jWU1mkIde1UdlY" name="DOKTER CHATBOT">
-    <mxGraphModel dx="868" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="lVRgVWI59TK45xCfC9NE-0" />
         <mxCell id="lVRgVWI59TK45xCfC9NE-1" parent="lVRgVWI59TK45xCfC9NE-0" />
@@ -1061,10 +1061,10 @@
         <mxCell id="AQcv91I42VG5d7RP1q1M-0" />
         <mxCell id="AQcv91I42VG5d7RP1q1M-1" parent="AQcv91I42VG5d7RP1q1M-0" />
         <mxCell id="q8USDjhKOzUQNWm62ROo-0" value="USERS CHAT" style="swimlane;rounded=0;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;html=1;" parent="AQcv91I42VG5d7RP1q1M-1" vertex="1">
-          <mxGeometry x="40" y="20" width="560" height="760" as="geometry" />
+          <mxGeometry x="40" y="20" width="560" height="680" as="geometry" />
         </mxCell>
         <mxCell id="q8USDjhKOzUQNWm62ROo-1" value="PENGGUNA" style="swimlane;rounded=0;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;html=1;" parent="q8USDjhKOzUQNWm62ROo-0" vertex="1">
-          <mxGeometry y="20" width="280" height="740" as="geometry" />
+          <mxGeometry y="20" width="280" height="660" as="geometry" />
         </mxCell>
         <mxCell id="q8USDjhKOzUQNWm62ROo-2" value="Pilih menu chat" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;" parent="q8USDjhKOzUQNWm62ROo-1" vertex="1">
           <mxGeometry x="40" y="150" width="200" height="30" as="geometry" />
@@ -1085,7 +1085,7 @@
           <mxGeometry x="115" y="600" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="q8USDjhKOzUQNWm62ROo-8" value="SISTEM" style="swimlane;rounded=0;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;html=1;" parent="q8USDjhKOzUQNWm62ROo-0" vertex="1">
-          <mxGeometry x="280" y="20" width="280" height="740" as="geometry" />
+          <mxGeometry x="280" y="20" width="280" height="660" as="geometry" />
         </mxCell>
         <mxCell id="q8USDjhKOzUQNWm62ROo-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;startSize=20;" parent="q8USDjhKOzUQNWm62ROo-8" source="q8USDjhKOzUQNWm62ROo-10" target="q8USDjhKOzUQNWm62ROo-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
