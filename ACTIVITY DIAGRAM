@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-21T14:26:09.554Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="RT_UwhHUHdOxiDIQUwDh" version="14.7.0" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2021-05-26T11:32:46.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="fHLydYqdxvO9ysBMQSDM" version="14.7.0" type="github" pages="16">
   <diagram name="LOGIN LOGOUT" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1736" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,15 +67,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cUm5_DUiFT_ZeyuVOgOJ" name="ADMIN DASHBOARD">
-    <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="-Q-ezFEkDyOZdkOv4bZi-0" />
         <mxCell id="-Q-ezFEkDyOZdkOv4bZi-1" parent="-Q-ezFEkDyOZdkOv4bZi-0" />
         <mxCell id="B-lFmk0v0K9ojey0eH0h-0" value="ADMIN DASHBOARD" style="swimlane;rounded=0;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;html=1;" parent="-Q-ezFEkDyOZdkOv4bZi-1" vertex="1">
-          <mxGeometry x="40" y="40" width="560" height="570" as="geometry" />
+          <mxGeometry x="40" y="40" width="560" height="370" as="geometry" />
         </mxCell>
         <mxCell id="B-lFmk0v0K9ojey0eH0h-1" value="PENGGUNA" style="swimlane;rounded=0;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;html=1;" parent="B-lFmk0v0K9ojey0eH0h-0" vertex="1">
-          <mxGeometry y="20" width="280" height="550" as="geometry" />
+          <mxGeometry y="20" width="280" height="350" as="geometry" />
         </mxCell>
         <mxCell id="B-lFmk0v0K9ojey0eH0h-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;startSize=20;" parent="B-lFmk0v0K9ojey0eH0h-1" source="B-lFmk0v0K9ojey0eH0h-2" target="B-lFmk0v0K9ojey0eH0h-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -87,7 +87,7 @@
           <mxGeometry x="115" y="290" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="B-lFmk0v0K9ojey0eH0h-6" value="SISTEM" style="swimlane;rounded=0;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;html=1;" parent="B-lFmk0v0K9ojey0eH0h-0" vertex="1">
-          <mxGeometry x="280" y="20" width="280" height="550" as="geometry" />
+          <mxGeometry x="280" y="20" width="280" height="350" as="geometry" />
         </mxCell>
         <mxCell id="B-lFmk0v0K9ojey0eH0h-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;startSize=20;" parent="B-lFmk0v0K9ojey0eH0h-6" source="B-lFmk0v0K9ojey0eH0h-8" target="B-lFmk0v0K9ojey0eH0h-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -105,7 +105,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4sdB9-ozL-cHy-yWMCEP" name="ADMIN DATA GEJALA">
-    <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3472" dy="1952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="5a89YYiMfxDZ47EGhYlY-0" />
         <mxCell id="5a89YYiMfxDZ47EGhYlY-1" parent="5a89YYiMfxDZ47EGhYlY-0" />
@@ -229,7 +229,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="j_Mf_ohzJAXTl_iHfxQt" name="ADMIN DATA PENYAKIT">
-    <mxGraphModel dx="1185" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2170" dy="1220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="BNOTqMyyi4wyghdTwTL0-0" />
         <mxCell id="BNOTqMyyi4wyghdTwTL0-1" parent="BNOTqMyyi4wyghdTwTL0-0" />
@@ -353,7 +353,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="60cA1WZgUxYjieBF5e_B" name="ADMIN DATA RULES">
-    <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="OPJkRqlBnO4dRyloFGx2-0" />
         <mxCell id="OPJkRqlBnO4dRyloFGx2-1" parent="OPJkRqlBnO4dRyloFGx2-0" />
@@ -471,7 +471,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Y5T4Zo7MKKKT0HC34c46" name="ADMIN CHAT">
-    <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="4sTEF-qw9xhEOcMbomeH-0" />
         <mxCell id="4sTEF-qw9xhEOcMbomeH-1" parent="4sTEF-qw9xhEOcMbomeH-0" />
@@ -588,11 +588,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0NYeu8dNqh-Obcz4oDSC" name="ADMIN CHATBOT">
-    <mxGraphModel dx="1422" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="pvk-Cg6iOu52SPxEHN4a-0" />
         <mxCell id="pvk-Cg6iOu52SPxEHN4a-1" parent="pvk-Cg6iOu52SPxEHN4a-0" />
-        <mxCell id="38HeaFtVS9XJyeZUiCSX-0" value="ADMIN DATA CHATBOT" style="swimlane;rounded=0;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;html=1;" parent="pvk-Cg6iOu52SPxEHN4a-1" vertex="1">
+        <mxCell id="38HeaFtVS9XJyeZUiCSX-0" value="ADMIN CHATBOT" style="swimlane;rounded=0;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;html=1;" parent="pvk-Cg6iOu52SPxEHN4a-1" vertex="1">
           <mxGeometry x="40" y="20" width="560" height="480" as="geometry" />
         </mxCell>
         <mxCell id="38HeaFtVS9XJyeZUiCSX-1" value="PENGGUNA" style="swimlane;rounded=0;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;html=1;" parent="38HeaFtVS9XJyeZUiCSX-0" vertex="1">
@@ -674,7 +674,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TlTVSmlojirdVQxE5bia" name="MANAGEMENT USERS">
-    <mxGraphModel dx="1422" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="aFvQso2mRgz6-nmCQRUu-0" />
         <mxCell id="aFvQso2mRgz6-nmCQRUu-1" parent="aFvQso2mRgz6-nmCQRUu-0" />
@@ -783,15 +783,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OFm_ugfSvNIf0jYV4O00" name="DOKTER DASHBOARD">
-    <mxGraphModel dx="1422" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="lpTZSqLPsqWBk_8Yi82e-0" />
         <mxCell id="lpTZSqLPsqWBk_8Yi82e-1" parent="lpTZSqLPsqWBk_8Yi82e-0" />
         <mxCell id="lpTZSqLPsqWBk_8Yi82e-2" value="DOKTER DASHBOARD" style="swimlane;rounded=0;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;html=1;" parent="lpTZSqLPsqWBk_8Yi82e-1" vertex="1">
-          <mxGeometry x="40" y="40" width="560" height="570" as="geometry" />
+          <mxGeometry x="40" y="40" width="560" height="370" as="geometry" />
         </mxCell>
         <mxCell id="lpTZSqLPsqWBk_8Yi82e-3" value="PENGGUNA" style="swimlane;rounded=0;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;html=1;" parent="lpTZSqLPsqWBk_8Yi82e-2" vertex="1">
-          <mxGeometry y="20" width="280" height="550" as="geometry" />
+          <mxGeometry y="20" width="280" height="350" as="geometry" />
         </mxCell>
         <mxCell id="lpTZSqLPsqWBk_8Yi82e-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;startSize=20;" parent="lpTZSqLPsqWBk_8Yi82e-3" source="lpTZSqLPsqWBk_8Yi82e-5" target="lpTZSqLPsqWBk_8Yi82e-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -803,7 +803,7 @@
           <mxGeometry x="115" y="290" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lpTZSqLPsqWBk_8Yi82e-7" value="SISTEM" style="swimlane;rounded=0;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;html=1;" parent="lpTZSqLPsqWBk_8Yi82e-2" vertex="1">
-          <mxGeometry x="280" y="20" width="280" height="550" as="geometry" />
+          <mxGeometry x="280" y="20" width="280" height="350" as="geometry" />
         </mxCell>
         <mxCell id="lpTZSqLPsqWBk_8Yi82e-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;startSize=20;" parent="lpTZSqLPsqWBk_8Yi82e-7" source="lpTZSqLPsqWBk_8Yi82e-9" target="lpTZSqLPsqWBk_8Yi82e-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -821,7 +821,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JKxOFIxJjG1B1eD5DyLH" name="DOKTER CHAT">
-    <mxGraphModel dx="1422" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="9LENkVYSP42NovYDF9PK-0" />
         <mxCell id="9LENkVYSP42NovYDF9PK-1" parent="9LENkVYSP42NovYDF9PK-0" />
@@ -932,7 +932,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4jMp39jWU1mkIde1UdlY" name="DOKTER CHATBOT">
-    <mxGraphModel dx="1422" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="lVRgVWI59TK45xCfC9NE-0" />
         <mxCell id="lVRgVWI59TK45xCfC9NE-1" parent="lVRgVWI59TK45xCfC9NE-0" />
@@ -1018,7 +1018,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3bNtXcm9OxX3J73xs9Uw" name="USERS DASHBOARD">
-    <mxGraphModel dx="1422" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="i_bFB46466spBgzGPhNz-0" />
         <mxCell id="i_bFB46466spBgzGPhNz-1" parent="i_bFB46466spBgzGPhNz-0" />
@@ -1056,7 +1056,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-0M0tBxtES-Em1d3u2iY" name="USERS CHAT">
-    <mxGraphModel dx="1422" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="AQcv91I42VG5d7RP1q1M-0" />
         <mxCell id="AQcv91I42VG5d7RP1q1M-1" parent="AQcv91I42VG5d7RP1q1M-0" />
@@ -1167,7 +1167,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lk9KIEzThTQWqJFWCzXf" name="USERS CHATBOT">
-    <mxGraphModel dx="1422" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="iS3W5k7gIH1O55HTM_0B-0" />
         <mxCell id="iS3W5k7gIH1O55HTM_0B-1" parent="iS3W5k7gIH1O55HTM_0B-0" />
