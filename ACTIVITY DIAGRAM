@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-26T11:32:46.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="fHLydYqdxvO9ysBMQSDM" version="14.7.0" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2021-05-26T11:35:05.122Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="PWiyplEgKl9ylS7aeNNN" version="14.7.0" type="github" pages="16">
   <diagram name="LOGIN LOGOUT" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="1736" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -783,7 +783,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OFm_ugfSvNIf0jYV4O00" name="DOKTER DASHBOARD">
-    <mxGraphModel dx="868" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="lpTZSqLPsqWBk_8Yi82e-0" />
         <mxCell id="lpTZSqLPsqWBk_8Yi82e-1" parent="lpTZSqLPsqWBk_8Yi82e-0" />
@@ -826,10 +826,10 @@
         <mxCell id="9LENkVYSP42NovYDF9PK-0" />
         <mxCell id="9LENkVYSP42NovYDF9PK-1" parent="9LENkVYSP42NovYDF9PK-0" />
         <mxCell id="eTLm-a3eK-8AXdKf9ogs-0" value="DOKTER CHAT" style="swimlane;rounded=0;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;html=1;" parent="9LENkVYSP42NovYDF9PK-1" vertex="1">
-          <mxGeometry x="40" y="20" width="560" height="760" as="geometry" />
+          <mxGeometry x="40" y="20" width="560" height="680" as="geometry" />
         </mxCell>
         <mxCell id="eTLm-a3eK-8AXdKf9ogs-1" value="PENGGUNA" style="swimlane;rounded=0;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;html=1;" parent="eTLm-a3eK-8AXdKf9ogs-0" vertex="1">
-          <mxGeometry y="20" width="280" height="740" as="geometry" />
+          <mxGeometry y="20" width="280" height="660" as="geometry" />
         </mxCell>
         <mxCell id="eTLm-a3eK-8AXdKf9ogs-2" value="Pilih menu chat" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;" parent="eTLm-a3eK-8AXdKf9ogs-1" vertex="1">
           <mxGeometry x="40" y="150" width="200" height="30" as="geometry" />
@@ -850,7 +850,7 @@
           <mxGeometry x="115" y="600" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eTLm-a3eK-8AXdKf9ogs-10" value="SISTEM" style="swimlane;rounded=0;shadow=0;comic=0;fontFamily=Verdana;startSize=20;strokeWidth=1;html=1;" parent="eTLm-a3eK-8AXdKf9ogs-0" vertex="1">
-          <mxGeometry x="280" y="20" width="280" height="740" as="geometry" />
+          <mxGeometry x="280" y="20" width="280" height="660" as="geometry" />
         </mxCell>
         <mxCell id="eTLm-a3eK-8AXdKf9ogs-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;startSize=20;" parent="eTLm-a3eK-8AXdKf9ogs-10" source="eTLm-a3eK-8AXdKf9ogs-12" target="eTLm-a3eK-8AXdKf9ogs-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
