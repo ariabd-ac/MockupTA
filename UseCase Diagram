@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-07T04:50:05.131Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="tJV6SNg3PrpyWEodvB2A" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-07T04:53:36.323Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="0doMB9kGr-6GCxKcY3OQ" version="14.8.4" type="github">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
-    <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -191,6 +191,21 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="680" y="500" as="sourcePoint" />
             <mxPoint x="840" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3vpH09us1l2KxbIf15hR-29" value="Register" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1041" y="475" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3vpH09us1l2KxbIf15hR-30" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;" edge="1" parent="1" source="3vpH09us1l2KxbIf15hR-29" target="j1HS2h_12s64w5TKD3Dp-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="900" y="530" as="sourcePoint" />
+            <mxPoint x="1060" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3vpH09us1l2KxbIf15hR-31" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;" edge="1" parent="1" source="3vpH09us1l2KxbIf15hR-29" target="j1HS2h_12s64w5TKD3Dp-8">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="900" y="530" as="sourcePoint" />
+            <mxPoint x="1060" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
